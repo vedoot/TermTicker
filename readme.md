@@ -18,4 +18,4 @@
 * Charts are green if the day's opening price is > the current price
 * The last hour of trading is highlighted blue
 
-![Screen Shot 2021-01-28 at 2.56.59 PM](/assets/Screen%20Shot%202021-01-28%20at%202.56.59%20PM_0usv7nx0r.png)
+![Screen Shot 2021-01-28 at 3.00.49 PM](https://i.imgur.com/v8WQby8.png)
